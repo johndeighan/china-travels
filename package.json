@@ -1,0 +1,19 @@
+{
+	"name": "@jdeighan/china-travels",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "Document China travels",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"serve": "hugo serve",
+		"start": "npm run serve"
+	},
+	"keywords": [
+		"hugo"
+	],
+	"author": "John Deighan",
+	"license": "MIT",
+	"dependencies": {
+		"@jdeighan/llutils": "^1.0.3"
+	}
+}

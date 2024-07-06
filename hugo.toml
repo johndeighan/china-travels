@@ -1,0 +1,9 @@
+baseURL = 'https://johhdeighan.github.io/'
+license = "MIT"
+licenselink = "https://github.com/janraasch/hugo-bearblog/blob/master/LICENSE"
+languageCode = 'en-us'
+title = 'China Travels'
+theme = 'hugo-bearblog'
+
+[author]
+  name = "John Deighan"
