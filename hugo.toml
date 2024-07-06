@@ -7,3 +7,6 @@ theme = 'hugo-bearblog'
 
 [author]
   name = "John Deighan"
+
+[params]
+  hideMadeWithLine = true
