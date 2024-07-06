@@ -114,3 +114,14 @@ engine-strict=true
 loglevel=silent
 ```
 
+Move your code to GitHub
+------------------------
+
+```bash
+$ git add -A
+$ git commit -m "initial commit"
+$ git status
+$ gh repo create
+```
+
+Select 'Push an existing local repository to GitHub'
